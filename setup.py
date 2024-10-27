@@ -7,11 +7,10 @@ REQUIREMENTS = [
     'dateparser==1.0.0',
     'ecdsa>=0.16.0',
     'eth_keys',
-    'eth-account>=0.8.0,<0.9.0',
     'mpmath==1.0.0',
     'requests>=2.22.0',
     'sympy==1.6',
-    'web3',
+    'web3>=6.0.0,<7.0.0'
 ]
 
 setup(
