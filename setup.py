@@ -11,7 +11,7 @@ REQUIREMENTS = [
     'mpmath==1.0.0',
     'requests>=2.22.0',
     'sympy==1.6',
-    'web3==5.0.0',
+    'web3',
 ]
 
 setup(
